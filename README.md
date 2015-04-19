@@ -72,4 +72,4 @@ how to solve:
 
 ## 3. Reporting Issues
 
-if you can't figure it out, please use ~the [issue tracker @ github.com](https://github.com/jojoxd/stream-topbar-issues/issues)~ the issue tracker on your right side.
+if you can't figure it out, please use ~~the [issue tracker @ github.com](https://github.com/jojoxd/stream-topbar-issues/issues)~~ the issue tracker on your right side.
